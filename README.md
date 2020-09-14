@@ -1,6 +1,6 @@
 ### Thanks for visiting my page! 👋
 
-### 👇 See below for some of the work I'm most proud of! 👇
+### See below for some of the work I'm most proud of! 👇
 <!--
 **abraspin/abraspin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
