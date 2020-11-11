@@ -1,4 +1,4 @@
-### Thanks for visiting my page! 
+### Thanks for visiting! 
 <p align="center">
     <span>&nbsp;</span>
     <a href="https://www.linkedin.com/in/abrahamspindel">
