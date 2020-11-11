@@ -17,8 +17,6 @@
 </p>
 
 
-![Stars](https://img.shields.io/github/stars/abraspin?style=social)
-
 
 ---
 
