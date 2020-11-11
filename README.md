@@ -12,6 +12,8 @@
     <a href="https://github.com/abraspin?tab=followers">
         <img src="https://img.shields.io/github/followers/tariq86.svg?label=follow&style=social" alt="GitHub Follower Count" />
     </a>
+    <span>&nbsp;</span>
+        <img src="https://img.shields.io/github/stars/abraspin?style=social" alt="GitHub Star Count" />
 </p>
 
 
@@ -20,9 +22,8 @@
 
 ---
 
-[My Website](https://abraspin.github.io/website/)
+[Click Here to Visit my Website!](https://abraspin.github.io/website/)
 
-[My LinkedIn Profile](https://www.linkedin.com/in/abrahamspindel/)
 
 ---
 
