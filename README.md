@@ -20,7 +20,9 @@
 
 ---
 
-[Click Here to Visit my Website!](https://abraspin.github.io/website/)
+Mechanical Engineering from University of Wisconsin - Madison
+Full-Stack Web Development from University of Texas - Austin Coding Bootcamp
+Visit my personal website! abraspin.github.io/website/
 
 
 ---
