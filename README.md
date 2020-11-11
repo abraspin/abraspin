@@ -19,7 +19,7 @@
 
 
 ---
-#### My name is Abraham and I am an engineer-turned-developer currently living in Austin.
+#### I'm Abraham, an engineer-turned-developer. I currently living in Austin and am looking for work!
 
 - Mechanical Engineering from University of Wisconsin - Madison    
 - Full-Stack Web Development from University of Texas - Austin Coding Bootcamp   
