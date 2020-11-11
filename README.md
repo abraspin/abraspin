@@ -21,10 +21,10 @@
 ---
 #### My name is Abraham and I am an engineer-turned-developer currently living in Austin.
 
-Mechanical Engineering from University of Wisconsin - Madison    
-Full-Stack Web Development from University of Texas - Austin Coding Bootcamp   
-Visit my personal website! abraspin.github.io/website/    
-Contact me at: [**AbrahamSpindel@gmail.com**](mailto:AbrahamSpindel@gmail.com)  
+- Mechanical Engineering from University of Wisconsin - Madison    
+- Full-Stack Web Development from University of Texas - Austin Coding Bootcamp   
+- **Visit my website**: abraspin.github.io/website/    
+- **Contact me**: [AbrahamSpindel@gmail.com](mailto:AbrahamSpindel@gmail.com)  
 
 
 ---
