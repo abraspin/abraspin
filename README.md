@@ -23,7 +23,7 @@
 
 - Mechanical Engineering from University of Wisconsin - Madison    
 - Full-Stack Web Development from University of Texas - Austin Coding Bootcamp   
-- **Visit my website**: [abraspin.github.io/website](https://abraspin.github.io/website)
+- **Visit my website**: [abraspin.github.io/](https://abraspin.github.io/)
 - **Contact me**: [AbrahamSpindel@gmail.com](mailto:AbrahamSpindel@gmail.com)  
 
 
